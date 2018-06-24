@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1362775261 source:d:\projetcpp\projetcpp\main.cpp
+	"fichierh.h"
+
+1362776249 d:\projetcpp\projetcpp\fichierh.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1362775238 source:d:\projetcpp\projetcpp\fichiercpp.cpp
+	"fichierh.h"
+
+1364014416 source:i:\projet_c++_duree\projetcpp\projetcpp\main.cpp
+	"fichierh.h"
+
+1366187733 i:\projet_c++_duree\projetcpp\projetcpp\fichierh.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"En_tete/structure.h"
+	<cstdlib>
+	<windows.h>
+	<conio2.h>
+
+1366834523 source:i:\projet_c++_duree\projetcpp\projetcpp\fichiercpp.cpp
+	"fichierh.h"
+	"En_tete/structure.h"
+	"listes_simple.h"
+	"listes_double.h"
+
+1366834599 i:\projet_c++_duree\projetcpp\projetcpp\en_tete\structure.h
+
+1366836640 source:i:\projet_c++_duree\projetcpp\projetcpp\listes_simple.cpp
+	"fichierh.h"
+	"En_tete/structure.h"
+	"listes_simple.h"
+
+1365592019 i:\projet_c++_duree\projetcpp\projetcpp\listes_simple.h
+
+1366837418 source:i:\projet_c++_duree\projetcpp\projetcpp\listes_double.cpp
+	"fichierh.h"
+	"En_tete/structure.h"
+	"listes_double.h"
+
+1365662775 i:\projet_c++_duree\projetcpp\projetcpp\listes_double.h
+	"En_tete/structure.h"
+
